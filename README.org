@@ -1,0 +1,9 @@
+#+title: The Teaching of Orthic Shorthand, Part I
+
+* The Teaching of Orthic Shorthand, Part I
+This project concerns the translation of [[https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf][The Teaching of Orthic Shorthand, Part I, Original, Handwritten PDF]], available from the [[https://orthic.shorthand.fun/][Orthic]] (Orthographic Cursive Shorthand) website, into actual text, along with embedded images, to allow for a more pleasurable reading experience.
+
+This document, /The Teaching of Orthic Shorthand, Part I/, is meant to be a supplement / teacher’s guide accompanying the official Orthic manual:
+#+begin_quote
+A series of lessons for the use of teachers and students of orthographic shorthand
+#+end_quote
