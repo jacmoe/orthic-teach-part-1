@@ -1,0 +1,91 @@
+:HEADER:
+#+TITLE: The Teaching of Orthic Shorthand, Part I
+#+AUTHOR: W. Stevens
+#+OPTIONS: whn:nil toc:3
+#+DESCRIPTION: A series of lessons for the use of teachers and students of orthographic shorthand
+#+LANGUAGE: en
+#+DATE: 1896
+#+LATEX: \setlength\parindent{0pt}
+:END:
+
+* Preface
+:properties:
+:unnumbered: t
+:end:
+The following lessons have been drawn up for the use of teachers in the “Orthic” system of shorthand. It should be borne in mind that shorthand has a two-fold aspect, first, it has by signs indicating letters, to enable a writer to take down on paper what is said; this is, by itself, somewhat easy; but it is essential, secondly that what is put down should be readable.
+Therefore teachers and students are strongly recommended to see that the eye, the brain, and the hand are trained at equal speed.
+Reading and practice should _always_ accompany the teaching of writing. Use the blackboard freely; use the reading books issued with these lessons. Write sentences on the blackboard from the books, at each lesson, and make the pupils read them. Dictate to your class as soon as possible, and make them read aloud from the books or magazines directly they can make out any words at all.
+If teachers and students will only follow these hints, and the lessons, as they are laid down, not hurrying, immediate success will accrue to their efforts.
+Students should practice, at least a quarter of an hour a day, what they learned at the preceding lesson. If this is faithfully carried out, they will be able to write at speed, and to read in an extremely short time.
+
+~W. Stevens.~
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+
+* Lesson 1
+** -
+Impress upon the pupils the necessity of becoming again “Babes in Learning”.
+They must have, as far as possible, an absolutely open mind, and commence, as children, by learning the alphabet.
+** -
+Show on the blackboard the analogy between the longhand and the shorthand character; this time at once impress it upon the memory; the thought of the well-known longhand character will necessarily carry with it its analogue, the shorthand symbol, thus
+
+[[file:img/fig1-1.png]] [[file:img/fig1-2.png]]
+
+Add the two distinct forms [[file:img/fig1-3.png]], and [[file:img/fig1-4.png]] ing.
+** -
+Now write the alphabet, between lines, on the board.
+
+[[file:img/fig1-5.png]]
+** -
+Point out that all vowels are _straight-on written strokes_, and that, conversely, all straight-on written strokes are vowels, thus [[file:img/fig1-6.png]] /A/, [[file:img/fig1-7.png]] /E/, [[file:img/fig1-8.png]] /I/, [[file:img/fig1-9.png]] /O/, [[file:img/fig1-10.png]] /U/ ([[file:img/fig1-11.png]] is written at an angle of 30 degrees with the line.)
+** -
+Very particularly differentiate between the sizes of the characters, the larger to be three times the size of the smaller.
+Show the geometric nature of analogous letter, as [[file:img/fig1-12.png]].
+** -
+Give the following aids to memory: analogous characters [[file:img/fig1-13.png]], as in longhand, small c, large C, adding loops = [[file:img/fig1-14.png]]. [[file:img/fig1-15.png]], /O/ = long /A/. /T/, /D/, analogous, analogous sounds and shapes; also /M/, /N/; [[file:img/fig1-16.png]], /S/, down stroke, has its larger analogue in [[file:img/fig1-17.png]] /P/; [[file:img/fig1-18.png]] /Y/ in [[file:img/fig1-19.png]] ing. [[file:img/fig1-20.png]] _above_ line is /J/ [[file:img/fig1-21.png]] _below_ line; [[file:img/fig1-22.png]] /F/, [[file:img/fig1-23.png]] /K/; are analogous; [[file:img/fig1-24.png]] /Q/, and [[file:img/fig1-25.png]] /V/ also, the one top-joined, the other open.
+** -
+The chief difficulty lies in remembering the circles; try the following aids:
+
+(a) Analogy with the longhand /H/, /L/, /R/.
+
+(b) [[file:img/fig1-26.png]] /H/ has its diminutive analogue in [[file:img/fig1-27.png]] /R/, both lie at the _top_ of a following line; [[file:img/fig1-28.png]] /ch/ and [[file:img/fig1-29.png]] /L/ are similar, and lie at the _bottom_ of a line.
+
+(c) /R/ turns against the clock, from Right to Left; /L/ turns with the clock from Left to Right; or, /R/ lies ove _r_ a following line, /L/ be _l_ ow it.
+** -
+Let the pupils practice these alphabet forms until they can write instantly any letter called for, and can accurately give the relative signs. Be sure and let the students _read_ from the blackboard any character you write, as well as themselves writing any letter you dictate.
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+* Lesson 2
+** -
+The alphabet being truly known, commence joinings; start with combined vowels; then make the pupils join every letter of the alphabet to preceding and following vowel, and combined vowels, pointing out any difficulties.
+** -
+Combined vowels are /ai/, /ay/, /ea/, /ee/, etc. Note that characters, whether vowels or consonants, are duplicated by placing a dot under the letter, thus [[file:img/fig2-1.png]] = /aa/ as [[file:img/fig2-2.png]] /Baal/;  [[file:img/fig2-9.png]] = /oo/, [[file:img/fig2-3.png]] /foot/. The distinction between /E/ and /I/ is that, when necessary, the /I/ is dotted as in long hand. Therefore, in doubling /E/ or /I/, _do not dot, but lengthen_, thus [[file:img/fig2-4.png]] /ee/, [[file:img/fig2-5.png]] /ei/, as [[file:img/fig2-6.png]] /reed/, [[file:img/fig2-7.png]] /reid/.
+
+/Ae/, /ai/, /ea/, and /ia/ are formed of the letters [[file:img/fig2-8.png]]; now in rapid writing it would be almost impossible to preserve the angle, hence we draw a rule, (the problem being to get from [[file:img/fig2-10.png]] as quickly and easily as possible), eliminate the angle, and thus make an on-written oblique curve, [[file:img/fig2-11.png]] /ai/, [[file:img/fig2-12.png]] /ae/, or /ea/. The curves may be written either way [[file:img/fig2-13.png]] as most convenient, having regard to the preceding or following consonant; _except that_ the combined vowels /ai/ must always be written in the order of the letters /a/ /i/. Examples, [[file:img/fig2-14.png]] /dear/, this is better than writing [[file:img/fig2-15.png]], which in very rapid writing might become [[file:img/fig2-16.png]] /demr/. [[file:img/fig2-17.png]] /fear/, [[file:img/fig2-18.png]] /year/, [[file:img/fig2-19.png]] /Ealing/, [[file:img/fig2-20.png]] /meal/. But /ai/ must be written /a/ /i/, as [[file:img/fig2-21.png]] /mail/. For aid in reading it is better to dot the /i/.
+** -
+The same reasoning applies to /ay/, [[file:img/fig2-22.png]], eliminate the angle, and make an on-written oblique curve, [[file:img/fig2-23.png]] or [[file:img/fig2-24.png]]. Observe particularly that /e/ and /i/ being _up_ strokes, the curve will _rise_; /y/ being a _down_ stroke, the curve will _fall_. As [[file:img/fig2-25.png]] /day/, the [[file:img/fig2-26.png]] curve is better than [[file:img/fig2-27.png]], [[file:img/fig2-28.png]] which might become [[file:img/fig2-29.png]] /dm/, or /dmy/, [[file:img/fig2-30.png]] /may/. See Manual P. 6. A.
+** -
+Other combined vowels are treated similarly, as /au/ [[file:img/fig2-31.png]], /ou/ [[file:img/fig2-32.png]], a short line slur and a long line slur; [[file:img/fig2-33.png]] /ua/; [[file:img/fig2-34.png]] /eu/ [[file:img/fig2-35.png]] /eau/, etc. /Oa/ and /ao/ are shown by writing, if necessary, the /A/ above the /O/, thus [[file:img/fig2-36.png]] /oar/, [[file:img/fig2-37.png]] /Laon/.
+** -
+We now draw this rule, “all on-written oblique curves are combined vowels, or diphthongs”, conversely, “ all diphthongs are on-written oblique curves”.
+** -
+An upstroke vowel following or preceding /y/ is written with an angle [[file:img/fig2-38.png]] /ye/, [[file:img/fig2-39.png]] /obey/.
+** -
+Examine pupils thoroughly in this lesson.
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+* Lesson 3
+** -
+Continue the combination of letters as given in the manual, pointing out the following: X /bl/, X /br/, the /L/ lies at the bottom or _left_ side og the upright character, and the /R/ at the top or _right_ side; similarly X /pl/, X /pr/; X /fl/, X /fc/, X /ml/, X /mr/.
+Note that it is usual to mite a vowel following /R/ attached to an upright letter _from the top_, as in X /pra/, this is to save time, and to avoid going round the circle twice.
+** -
+Compare /Ch/ and /H/, these are analogous to /L/ and /R/, /Ch/ is written like longhand /O/, that is, it begins and ends at the top, and consequently, like /L/, lies _under_ the following vowel, as X /cho/; /H/, on the other hand, begins and ends at the _bottom_, and consequently, like /R/, lies at the _top_ of a following vowel, at X /ha/.
+
+
+#  LocalWords:  LaTeX pagebreak ing ove ai ay ee ei reid Ae ia ae oo demr dm au
+#  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon
