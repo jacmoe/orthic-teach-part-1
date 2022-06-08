@@ -81,11 +81,37 @@ Examine pupils thoroughly in this lesson.
 #+end_export
 * Lesson 3
 ** -
-Continue the combination of letters as given in the manual, pointing out the following: X /bl/, X /br/, the /L/ lies at the bottom or _left_ side og the upright character, and the /R/ at the top or _right_ side; similarly X /pl/, X /pr/; X /fl/, X /fc/, X /ml/, X /mr/.
+Continue the combination of letters as given in the manual, pointing out the following: X /bl/, X /br/, the /L/ lies at the bottom or _left_ side of the upright character, and the /R/ at the top or _right_ side; similarly X /pl/, X /pr/; X /fl/, X /fc/, X /ml/, X /mr/.
 Note that it is usual to mite a vowel following /R/ attached to an upright letter _from the top_, as in X /pra/, this is to save time, and to avoid going round the circle twice.
 ** -
 Compare /Ch/ and /H/, these are analogous to /L/ and /R/, /Ch/ is written like longhand /O/, that is, it begins and ends at the top, and consequently, like /L/, lies _under_ the following vowel, as X /cho/; /H/, on the other hand, begins and ends at the _bottom_, and consequently, like /R/, lies at the _top_ of a following vowel, at X /ha/.
+In the combinations /chl/, /chr/, put the /L/ or /R/ inside the larger circle, thus X /chlo/, (observe the /L/ lies below the vowel line) X /chro/, here the /R/ lies above the line; compare /Phl/, /Phr/, Manual p. 10.
+** -
+/S/ joined to the finish of /F/ or /K/ is better, (as the hand is traveling in a curve), turned _up_ rather than down; thus X /ks/ is better than X.
+** -
+/H/ has, in English, the following consonants preceding it: /C/, /G/, /P/, /R/, /S/, /T/, and /W/. /Ch/ has been explained; /gh/ is written in order, X; /ph/ also, X or X according to the next letter, thus X /phar/, X /phy/. /Rh/, the /R/ can lie just outside, or curl within, the /H/ circle, as X or X; /Sh/, following our alphabet analogy, is written three times as small as X /ph/, thus X.
+If the combination /Shr/ is desired, it is shown by continuing the next letter from the _bottom_, instead of the top of the circle, as X = /shro/, but X = /sho/. /Th/ is written in order X. /Wh/ is made like /Ch/, but is not joined at the top, thus X = /who/. It may also be remembered thus, enlarge the /W/ X to look like /H/ X.
+** -
+/Q/ = /qu/; as there is no word in the English language commencing with /q/ that is not followed by  the letter /U/, it is reasonable to allow X to stand for /qu/.
+** -
+/S/ before and after /P/ should be rounded. X /sp/, X /ps/, X /sps/.
+** -
+The letter /W/ has a two-fold symbol X, the first initial, the second final. Observe the longhand character in Lesson 1, students will then never forget which is which, or the direction they turn. Initial /W/ X is always used at the beginning of a word, _except before R_. (/Wh/ we have already explained) Before /R/ _final W is used_, thus X, the reasoning that written the other way X, the combination really becomes /wer/, not /wr/ only. Note that /W/ begins _on_ the line, not above it as X = /t/.
+
+Another way to remember /W/ is to point out that whether initial or final, _it is an upward tick_, as X /wo/, X /ow/. The letter may be written either circularly or angularly as X or X /owing/, X or X.
+
+The angular form is used after /S/, thus X /sw/, formed of X /s/ and X /w/. To add /S/ to final /W/, elongate the loop, thus X /cow/, X /cows/.
+** -
+/X/ is made up, as in longhand, of /C/ and /S/, X, and there is no English word beginning with /X/ that is not preceded by /E/, this character may be used to represent /Ex/. There is no need to make an angle in the combinations /Exh/, /Exch/, as XXX.
+** -
+Now let the students write simple sentences and read from the blackboard.
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+* Lesson 4
 
 
 #  LocalWords:  LaTeX pagebreak ing ove ai ay ee ei reid Ae ia ae oo demr dm au
-#  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon
+#  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
+#  LocalWords:  chlo chro Phr gh ph phar phy Shr sho Wh qu sp ps sps wer wr wo
+#  LocalWords:  sw Exh Exch
