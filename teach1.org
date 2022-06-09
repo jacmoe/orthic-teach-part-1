@@ -112,6 +112,64 @@ Now let the students write simple sentences and read from the blackboard.
 \pagebreak
 #+end_export
 * Lesson 4
+** -
+The students should now be able to write any dictation in full style, and to read the first exercise boob of the Psalms. The progress of the writing and reading should be simultaneous.
+
+It is a prudent course to dictate a Psalm, and let the students correct from the printed exercise. Lesson 4 should not be given until this result is attained.
+** -
+Being now able to read and write in full style, the rules for first abbreviations may be given.
+
+They are
+
+*(a)* Always leave out /a/ and /o/ before /m/ and /n/; where there are double /a’s/ or /o’s/ leave out one, thus X /command/, X /son/, but X /soon/.
+
+*(b)* There is no need to dot the /i/ in simple words, X /it/.
+
+*(c)* _Initial_ /Th/ is omitted, and the rest of the word written _above_ the line, thus X = /the/. Why? Because were the /Th/ written, the succeeding letter would come as placed, above the line. E.g. X, X, X, X, delete the /Th/, X, X, X, X. What is left and where X, X, X, X, hence the rule.
+
+/Th/ in any other part of the word is written, except in the compound word “although”, which is written X. The only case of a word written above the line and not presupposing initial /Th/ is the word “and” signified by X /a/, written above the line.
+
+*(d)* In adding inflections /y/ retain the /y/, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
+** -
+Common terminations should be abbreviated as follows, after the ordinary longhand abbreviation, or a logically scientific rule.
+
+- *ed* : leave out the /e/; as used = us’d X.
+
+- *ful* : leave out the /u/; X /useful/, X; this last example, /beautiful/, shows one reason for retaining the /y/ in the inflected word, “beautyfull”.
+
+- *hood* / – *head*: /hd/ only; X.
+
+_ *ight*: /t/ X _below_ the line. But surely this is an arbitrary rule? No. Follow the writing in /light/, /sight/, /bright/, /frighten/, etc., X, X, X, X; now erase the /’igh’/, X, X, X, X; what is left and where? Why X, X, X, X; hence the rule. It is better to show the vowel after /l/ and /r/, so as to show which consonat it is by the way it is turned, as X, X.
+
+- *ion*: this termination is shown by X = /ion/; X.
+
+- *ation*: is a common ending, and it is wise to shorten it as much as possible, therefore use detached /n/ X to represent this termination, as X.
+
+- *ity*: /y/ _above_ the last letter
+- *ly*: /y/ _below_ last letter
+  Why? because the would be there if the whole word was written; thus X, X, X, X, erase /’it’/ and /’l’/, and we get X, X, X, X.
+
+- *less*: X /ls/, as in longhand.
+
+- *ness*: /es/, X.
+
+- *ment*: /mt/ X.
+
+- *ough*: this ending, as is well known, has many ways of being pronounced, but for the sake of simplicity and uniformity we take the common /”tho”/ as equivalent for /”though”/. Hence /o/ X = /ough/; so we get X as representing /ought/, /thought/.
+
+- *ther*: slur the /t/ X into the /h/ X circle and put the /r/ inside, thus X, X /other/.
+
+- *ward*: leave out the /w/, as a seaman say /for’ard/ for /forward/, X.
+** -
+Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay down this ruther rule:
+
+- in abbreviating words it is usual to follow the longhand method of writing the first syllable, or distinctive feature of the word, and add the ending, detached or joined as may be the most convenient for future reading.
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+* Lesson 5
+
 
 
 #  LocalWords:  LaTeX pagebreak ing ove ai ay ee ei reid Ae ia ae oo demr dm au
