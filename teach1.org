@@ -121,15 +121,13 @@ Being now able to read and write in full style, the rules for first abbreviation
 
 They are
 
-*(a)* Always leave out /a/ and /o/ before /m/ and /n/; where there are double /a’s/ or /o’s/ leave out one, thus X /command/, X /son/, but X /soon/.
+- *(a)* Always leave out /a/ and /o/ before /m/ and /n/; where there are double /a’s/ or /o’s/ leave out one, thus X /command/, X /son/, but X /soon/.
 
-*(b)* There is no need to dot the /i/ in simple words, X /it/.
+- *(b)* There is no need to dot the /i/ in simple words, X /it/.
 
-*(c)* _Initial_ /Th/ is omitted, and the rest of the word written _above_ the line, thus X = /the/. Why? Because were the /Th/ written, the succeeding letter would come as placed, above the line. E.g. X, X, X, X, delete the /Th/, X, X, X, X. What is left and where X, X, X, X, hence the rule.
+- *(c)* _Initial_ /Th/ is omitted, and the rest of the word written _above_ the line, thus X = /the/. Why? Because were the /Th/ written, the succeeding letter would come as placed, above the line. E.g. X, X, X, X, delete the /Th/, X, X, X, X. What is left and where X, X, X, X, hence the rule. /Th/ in any other part of the word is written, except in the compound word “although”, which is written X. The only case of a word written above the line and not presupposing initial /Th/ is the word “and” signified by X /a/, written above the line.
 
-/Th/ in any other part of the word is written, except in the compound word “although”, which is written X. The only case of a word written above the line and not presupposing initial /Th/ is the word “and” signified by X /a/, written above the line.
-
-*(d)* In adding inflections /y/ retain the /y/, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
+- *(d)* In adding inflections /y/ retain the /y/, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
 ** -
 Common terminations should be abbreviated as follows, after the ordinary longhand abbreviation, or a logically scientific rule.
 
@@ -139,7 +137,7 @@ Common terminations should be abbreviated as follows, after the ordinary longhan
 
 - *hood* / – *head*: /hd/ only; X.
 
-_ *ight*: /t/ X _below_ the line. But surely this is an arbitrary rule? No. Follow the writing in /light/, /sight/, /bright/, /frighten/, etc., X, X, X, X; now erase the /’igh’/, X, X, X, X; what is left and where? Why X, X, X, X; hence the rule. It is better to show the vowel after /l/ and /r/, so as to show which consonat it is by the way it is turned, as X, X.
+- *ight*: /t/ X _below_ the line. But surely this is an arbitrary rule? No. Follow the writing in /light/, /sight/, /bright/, /frighten/, etc., X, X, X, X; now erase the /’igh’/, X, X, X, X; what is left and where? Why X, X, X, X; hence the rule. It is better to show the vowel after /l/ and /r/, so as to show which consonat it is by the way it is turned, as X, X.
 
 - *ion*: this termination is shown by X = /ion/; X.
 
@@ -161,9 +159,12 @@ _ *ight*: /t/ X _below_ the line. But surely this is an arbitrary rule? No. Foll
 
 - *ward*: leave out the /w/, as a seaman say /for’ard/ for /forward/, X.
 ** -
-Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay down this ruther rule:
+Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay down this further rule:
 
-- in abbreviating words it is usual to follow the longhand method of writing the first syllable, or distinctive feature of the word, and add the ending, detached or joined as may be the most convenient for future reading.
+#+begin_export LaTeX
+\bigskip
+#+end_export
+In abbreviating words it is usual to follow the longhand method of writing the first syllable, or distinctive feature of the word, and add the ending, detached or joined as may be the most convenient for future reading.
 
 #+begin_export LaTeX
 \pagebreak
@@ -175,4 +176,5 @@ Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay
 #  LocalWords:  LaTeX pagebreak ing ove ai ay ee ei reid Ae ia ae oo demr dm au
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
 #  LocalWords:  chlo chro Phr gh ph phar phy Shr sho Wh qu sp ps sps wer wr wo
-#  LocalWords:  sw Exh Exch
+#  LocalWords:  sw Exh Exch trys applyd ation ity ly ness ment ough ther
+#  LocalWords:  for’ard
