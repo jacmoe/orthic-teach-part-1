@@ -24,27 +24,27 @@ Students should practice, at least a quarter of an hour a day, what they learned
 #+end_export
 
 * Lesson 1
-** -
+** Introduction - Babes in Learning
 Impress upon the pupils the necessity of becoming again “Babes in Learning”.
 They must have, as far as possible, an absolutely open mind, and commence, as children, by learning the alphabet.
-** -
+** The analogy between longhand and shorthand
 Show on the blackboard the analogy between the longhand and the shorthand character; this time at once impress it upon the memory; the thought of the well-known longhand character will necessarily carry with it its analogue, the shorthand symbol, thus
 
 [[file:img/fig1-1.png]] [[file:img/fig1-2.png]]
 
 Add the two distinct forms [[file:img/fig1-3.png]], and [[file:img/fig1-4.png]] ing.
-** -
+** The alphabet
 Now write the alphabet, between lines, on the board.
 
 [[file:img/fig1-5.png]]
-** -
+** All vowels are straight-on written strokes
 Point out that all vowels are _straight-on written strokes_, and that, conversely, all straight-on written strokes are vowels, thus [[file:img/fig1-6.png]] /A/, [[file:img/fig1-7.png]] /E/, [[file:img/fig1-8.png]] /I/, [[file:img/fig1-9.png]] /O/, [[file:img/fig1-10.png]] /U/ ([[file:img/fig1-11.png]] is written at an angle of 30 degrees with the line.)
-** -
+** The sizes of the characters
 Very particularly differentiate between the sizes of the characters, the larger to be three times the size of the smaller.
 Show the geometric nature of analogous letter, as [[file:img/fig1-12.png]].
-** -
+** Analogous characters
 Give the following aids to memory: analogous characters [[file:img/fig1-13.png]], as in longhand, small c, large C, adding loops = [[file:img/fig1-14.png]]. [[file:img/fig1-15.png]], /O/ = long /A/. /T/, /D/, analogous, analogous sounds and shapes; also /M/, /N/; [[file:img/fig1-16.png]], /S/, down stroke, has its larger analogue in [[file:img/fig1-17.png]] /P/; [[file:img/fig1-18.png]] /Y/ in [[file:img/fig1-19.png]] ing. [[file:img/fig1-20.png]] _above_ line is /J/ [[file:img/fig1-21.png]] _below_ line; [[file:img/fig1-22.png]] /F/, [[file:img/fig1-23.png]] /K/; are analogous; [[file:img/fig1-24.png]] /Q/, and [[file:img/fig1-25.png]] /V/ also, the one top-joined, the other open.
-** -
+** The circles
 The chief difficulty lies in remembering the circles; try the following aids:
 
 (a) Analogy with the longhand /H/, /L/, /R/.
@@ -52,28 +52,28 @@ The chief difficulty lies in remembering the circles; try the following aids:
 (b) [[file:img/fig1-26.png]] /H/ has its diminutive analogue in [[file:img/fig1-27.png]] /R/, both lie at the _top_ of a following line; [[file:img/fig1-28.png]] /ch/ and [[file:img/fig1-29.png]] /L/ are similar, and lie at the _bottom_ of a line.
 
 (c) /R/ turns against the clock, from Right to Left; /L/ turns with the clock from Left to Right; or, /R/ lies ove _r_ a following line, /L/ be _l_ ow it.
-** -
+** Conclusion - read and write any letter
 Let the pupils practice these alphabet forms until they can write instantly any letter called for, and can accurately give the relative signs. Be sure and let the students _read_ from the blackboard any character you write, as well as themselves writing any letter you dictate.
 
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 * Lesson 2
-** -
+** Combined vowels
 The alphabet being truly known, commence joinings; start with combined vowels; then make the pupils join every letter of the alphabet to preceding and following vowel, and combined vowels, pointing out any difficulties.
-** -
+** Ae, ea, ai, ia
 Combined vowels are /ai/, /ay/, /ea/, /ee/, etc. Note that characters, whether vowels or consonants, are duplicated by placing a dot under the letter, thus [[file:img/fig2-1.png]] = /aa/ as [[file:img/fig2-2.png]] /Baal/;  [[file:img/fig2-9.png]] = /oo/, [[file:img/fig2-3.png]] /foot/. The distinction between /E/ and /I/ is that, when necessary, the /I/ is dotted as in long hand. Therefore, in doubling /E/ or /I/, _do not dot, but lengthen_, thus [[file:img/fig2-4.png]] /ee/, [[file:img/fig2-5.png]] /ei/, as [[file:img/fig2-6.png]] /reed/, [[file:img/fig2-7.png]] /reid/.
 
 /Ae/, /ai/, /ea/, and /ia/ are formed of the letters [[file:img/fig2-8.png]]; now in rapid writing it would be almost impossible to preserve the angle, hence we draw a rule, (the problem being to get from [[file:img/fig2-10.png]] as quickly and easily as possible), eliminate the angle, and thus make an on-written oblique curve, [[file:img/fig2-11.png]] /ai/, [[file:img/fig2-12.png]] /ae/, or /ea/. The curves may be written either way [[file:img/fig2-13.png]] as most convenient, having regard to the preceding or following consonant; _except that_ the combined vowels /ai/ must always be written in the order of the letters /a/ /i/. Examples, [[file:img/fig2-14.png]] /dear/, this is better than writing [[file:img/fig2-15.png]], which in very rapid writing might become [[file:img/fig2-16.png]] /demr/. [[file:img/fig2-17.png]] /fear/, [[file:img/fig2-18.png]] /year/, [[file:img/fig2-19.png]] /Ealing/, [[file:img/fig2-20.png]] /meal/. But /ai/ must be written /a/ /i/, as [[file:img/fig2-21.png]] /mail/. For aid in reading it is better to dot the /i/.
-** -
+** ay
 The same reasoning applies to /ay/, [[file:img/fig2-22.png]], eliminate the angle, and make an on-written oblique curve, [[file:img/fig2-23.png]] or [[file:img/fig2-24.png]]. Observe particularly that /e/ and /i/ being _up_ strokes, the curve will _rise_; /y/ being a _down_ stroke, the curve will _fall_. As [[file:img/fig2-25.png]] /day/, the [[file:img/fig2-26.png]] curve is better than [[file:img/fig2-27.png]], [[file:img/fig2-28.png]] which might become [[file:img/fig2-29.png]] /dm/, or /dmy/, [[file:img/fig2-30.png]] /may/. See Manual P. 6. A.
-** -
+** Other combined vowels
 Other combined vowels are treated similarly, as /au/ [[file:img/fig2-31.png]], /ou/ [[file:img/fig2-32.png]], a short line slur and a long line slur; [[file:img/fig2-33.png]] /ua/; [[file:img/fig2-34.png]] /eu/ [[file:img/fig2-35.png]] /eau/, etc. /Oa/ and /ao/ are shown by writing, if necessary, the /A/ above the /O/, thus [[file:img/fig2-36.png]] /oar/, [[file:img/fig2-37.png]] /Laon/.
-** -
+** The diphthong rule
 We now draw this rule, “all on-written oblique curves are combined vowels, or diphthongs”, conversely, “ all diphthongs are on-written oblique curves”.
-** -
+** The y upstroke rule
 An upstroke vowel following or preceding /y/ is written with an angle [[file:img/fig2-38.png]] /ye/, [[file:img/fig2-39.png]] /obey/.
-** -
+** Conclusion - observe students
 Examine pupils thoroughly in this lesson.
 
 #+begin_export LaTeX
@@ -113,7 +113,7 @@ Now let the students write simple sentences and read from the blackboard.
 #+end_export
 * Lesson 4
 ** -
-The students should now be able to write any dictation in full style, and to read the first exercise boob of the Psalms. The progress of the writing and reading should be simultaneous.
+The students should now be able to write any dictation in full style, and to read the first exercise book of the Psalms. The progress of the writing and reading should be simultaneous.
 
 It is a prudent course to dictate a Psalm, and let the students correct from the printed exercise. Lesson 4 should not be given until this result is attained.
 ** -
@@ -121,43 +121,62 @@ Being now able to read and write in full style, the rules for first abbreviation
 
 They are
 
-- *(a)* Always leave out /a/ and /o/ before /m/ and /n/; where there are double /a’s/ or /o’s/ leave out one, thus X /command/, X /son/, but X /soon/.
+*** (a)
+  Always leave out /a/ and /o/ before /m/ and /n/; where there are double /a’s/ or /o’s/ leave out one, thus X /command/, X /son/, but X /soon/.
 
-- *(b)* There is no need to dot the /i/ in simple words, X /it/.
+*** (b)
+  There is no need to dot the /i/ in simple words, X /it/.
 
-- *(c)* _Initial_ /Th/ is omitted, and the rest of the word written _above_ the line, thus X = /the/. Why? Because were the /Th/ written, the succeeding letter would come as placed, above the line. E.g. X, X, X, X, delete the /Th/, X, X, X, X. What is left and where X, X, X, X, hence the rule. /Th/ in any other part of the word is written, except in the compound word “although”, which is written X. The only case of a word written above the line and not presupposing initial /Th/ is the word “and” signified by X /a/, written above the line.
+*** (c)
+  _Initial_ /Th/ is omitted, and the rest of the word written _above_ the line, thus X = /the/. Why? Because were the /Th/ written, the succeeding letter would come as placed, above the line. E.g. X, X, X, X, delete the /Th/, X, X, X, X. What is left and where X, X, X, X, hence the rule. /Th/ in any other part of the word is written, except in the compound word “although”, which is written X. The only case of a word written above the line and not presupposing initial /Th/ is the word “and” signified by X /a/, written above the line.
 
-- *(d)* In adding inflections /y/ retain the /y/, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
-** -
+*** (d)
+  In adding inflections /y/ retain the /y/, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
+** Common terminations
 Common terminations should be abbreviated as follows, after the ordinary longhand abbreviation, or a logically scientific rule.
 
-- *ed* : leave out the /e/; as used = us’d X.
+*** -ed
+  leave out the /e/; as used = us’d X.
 
-- *ful* : leave out the /u/; X /useful/, X; this last example, /beautiful/, shows one reason for retaining the /y/ in the inflected word, “beautyfull”.
+*** -ful
+  leave out the /u/; X /useful/, X; this last example, /beautiful/, shows one reason for retaining the /y/ in the inflected word, “beautyfull”.
 
-- *hood* / – *head*: /hd/ only; X.
+*** -hood / –head
+  /hd/ only; X.
 
-- *ight*: /t/ X _below_ the line. But surely this is an arbitrary rule? No. Follow the writing in /light/, /sight/, /bright/, /frighten/, etc., X, X, X, X; now erase the /’igh’/, X, X, X, X; what is left and where? Why X, X, X, X; hence the rule. It is better to show the vowel after /l/ and /r/, so as to show which consonat it is by the way it is turned, as X, X.
+*** -ight
+  /t/ X _below_ the line. But surely this is an arbitrary rule? No. Follow the writing in /light/, /sight/, /bright/, /frighten/, etc., X, X, X, X; now erase the /’igh’/, X, X, X, X; what is left and where? Why X, X, X, X; hence the rule. It is better to show the vowel after /l/ and /r/, so as to show which consonat it is by the way it is turned, as X, X.
 
-- *ion*: this termination is shown by X = /ion/; X.
+*** -ion
+  this termination is shown by X = /ion/; X.
 
-- *ation*: is a common ending, and it is wise to shorten it as much as possible, therefore use detached /n/ X to represent this termination, as X.
+*** -ation
+  is a common ending, and it is wise to shorten it as much as possible, therefore use detached /n/ X to represent this termination, as X.
 
-- *ity*: /y/ _above_ the last letter
-- *ly*: /y/ _below_ last letter
-  Why? because the would be there if the whole word was written; thus X, X, X, X, erase /’it’/ and /’l’/, and we get X, X, X, X.
+*** -ity / -ly
+/-ity/ =  /y/ _above_ the last letter
 
-- *less*: X /ls/, as in longhand.
+/-ly/ = /y/ _below_ last letter
 
-- *ness*: /es/, X.
+Why? because the would be there if the whole word was written; thus X, X, X, X, erase /’it’/ and /’l’/, and we get X, X, X, X.
 
-- *ment*: /mt/ X.
+*** -less
+X /ls/, as in longhand.
 
-- *ough*: this ending, as is well known, has many ways of being pronounced, but for the sake of simplicity and uniformity we take the common /”tho”/ as equivalent for /”though”/. Hence /o/ X = /ough/; so we get X as representing /ought/, /thought/.
+*** -ness
+  /es/, X.
 
-- *ther*: slur the /t/ X into the /h/ X circle and put the /r/ inside, thus X, X /other/.
+*** -ment
+/mt/ X.
 
-- *ward*: leave out the /w/, as a seaman say /for’ard/ for /forward/, X.
+*** -ough
+this ending, as is well known, has many ways of being pronounced, but for the sake of simplicity and uniformity we take the common /”tho”/ as equivalent for /”though”/. Hence /o/ X = /ough/; so we get X as representing /ought/, /thought/.
+
+*** -ther
+slur the /t/ X into the /h/ X circle and put the /r/ inside, thus X, X /other/.
+
+*** -ward
+leave out the /w/, as a seaman say /for’ard/ for /forward/, X.
 ** -
 Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay down this further rule:
 
@@ -177,4 +196,4 @@ In abbreviating words it is usual to follow the longhand method of writing the f
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
 #  LocalWords:  chlo chro Phr gh ph phar phy Shr sho Wh qu sp ps sps wer wr wo
 #  LocalWords:  sw Exh Exch trys applyd ation ity ly ness ment ough ther
-#  LocalWords:  for’ard
+#  LocalWords:  for’ard bigskip
