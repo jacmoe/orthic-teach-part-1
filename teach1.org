@@ -23,7 +23,7 @@ Students should practice, at least a quarter of an hour a day, what they learned
 \pagebreak
 #+end_export
 
-* Lesson 1
+* Lesson 1 - Introduction to the alphabet
 ** Introduction - Babes in Learning
 Impress upon the pupils the necessity of becoming again “Babes in Learning”.
 They must have, as far as possible, an absolutely open mind, and commence, as children, by learning the alphabet.
@@ -39,7 +39,7 @@ Now write the alphabet, between lines, on the board.
 [[file:img/fig1-5.png]]
 ** All vowels are straight-on written strokes
 Point out that all vowels are _straight-on written strokes_, and that, conversely, all straight-on written strokes are vowels, thus [[file:img/fig1-6.png]] /A/, [[file:img/fig1-7.png]] /E/, [[file:img/fig1-8.png]] /I/, [[file:img/fig1-9.png]] /O/, [[file:img/fig1-10.png]] /U/ ([[file:img/fig1-11.png]] is written at an angle of 30 degrees with the line.)
-** The sizes of the characters
+** The size and shape of the characters
 Very particularly differentiate between the sizes of the characters, the larger to be three times the size of the smaller.
 Show the geometric nature of analogous letter, as [[file:img/fig1-12.png]].
 ** Analogous characters
@@ -58,7 +58,7 @@ Let the pupils practice these alphabet forms until they can write instantly any 
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Lesson 2
+* Lesson 2 - Joinings - Vowels
 ** Combined vowels
 The alphabet being truly known, commence joinings; start with combined vowels; then make the pupils join every letter of the alphabet to preceding and following vowel, and combined vowels, pointing out any difficulties.
 ** Ae, ea, ai, ia
@@ -79,7 +79,7 @@ Examine pupils thoroughly in this lesson.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Lesson 3
+* Lesson 3 - Joinings - Consonants
 ** L and R
 Continue the combination of letters as given in the manual, pointing out the following: [[file:img/fig3-1.png]] /bl/, [[file:img/fig3-2.png]] /br/, the /L/ lies at the bottom or _left_ side of the upright character, and the /R/ at the top or _right_ side; similarly [[file:img/fig3-3.png]] /pl/, [[file:img/fig3-4.png]] /pr/; [[file:img/fig3-5.png]] /fl/, [[file:img/fig3-6.png]] /fr/, [[file:img/fig3-7.png]] /ml/, [[file:img/fig3-8.png]] /mr/.
 
@@ -111,7 +111,7 @@ Now let the students write simple sentences and read from the blackboard.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Lesson 4
+* Lesson 4 - Basic abbreviation
 ** Lesson prerequisites
 The students should now be able to write any dictation in full style, and to read the first exercise book of the Psalms. The progress of the writing and reading should be simultaneous.
 
