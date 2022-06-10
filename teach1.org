@@ -80,57 +80,57 @@ Examine pupils thoroughly in this lesson.
 \pagebreak
 #+end_export
 * Lesson 3
-** -
+** L and R
 Continue the combination of letters as given in the manual, pointing out the following: [[file:img/fig3-1.png]] /bl/, [[file:img/fig3-2.png]] /br/, the /L/ lies at the bottom or _left_ side of the upright character, and the /R/ at the top or _right_ side; similarly [[file:img/fig3-3.png]] /pl/, [[file:img/fig3-4.png]] /pr/; [[file:img/fig3-5.png]] /fl/, [[file:img/fig3-6.png]] /fr/, [[file:img/fig3-7.png]] /ml/, [[file:img/fig3-8.png]] /mr/.
 
 Note that it is usual to mite a vowel following /R/ attached to an upright letter _from the top_, as in [[file:img/fig3-9.png]] /pra/, this is to save time, and to avoid going round the circle twice.
-** -
+** Ch and H
 Compare /Ch/ and /H/, these are analogous to /L/ and /R/, /Ch/ is written like longhand /O/, that is, it begins and ends at the top, and consequently, like /L/, lies _under_ the following vowel, as [[file:img/fig3-10.png]] /cho/; /H/, on the other hand, begins and ends at the _bottom_, and consequently, like /R/, lies at the _top_ of a following vowel, at [[file:img/fig3-11.png]] /ha/.
 
 In the combinations /chl/, /chr/, put the /L/ or /R/ inside the larger circle, thus [[file:img/fig3-12.png]] /chlo/, (observe the /L/ lies below the vowel line) [[file:img/fig3-13.png]] /chro/, here the /R/ lies above the line; compare /Phl/, /Phr/, Manual p. 10.
-** -
+** S after F or K
 /S/ joined to the finish of /F/ or /K/ is better, (as the hand is traveling in a curve), turned _up_ rather than down; thus [[file:img/fig3-14.png]] /ks/ is better than [[file:img/fig3-15.png]].
-** -
+** H and its connections
 /H/ has, in English, the following consonants preceding it: /C/, /G/, /P/, /R/, /S/, /T/, and /W/. /Ch/ has been explained; /gh/ is written in order, [[file:img/fig3-16.png]]; /ph/ also, [[file:img/fig3-17.png]] or [[file:img/fig3-18.png]] according to the next letter, thus [[file:img/fig3-19.png]] /phar/, [[file:img/fig3-20.png]] /phy/. /Rh/, the /R/ can lie just outside, or curl within, the /H/ circle, as [[file:img/fig3-21.png]] or [[file:img/fig3-22.png]]; /Sh/, following our alphabet analogy, is written three times as small as [[file:img/fig3-23.png]] /ph/, thus [[file:img/fig3-24.png]].
 
 If the combination /Shr/ is desired, it is shown by continuing the next letter from the _bottom_, instead of the top of the circle, as [[file:img/fig3-25.png]] = /shro/, but [[file:img/fig3-26.png]] = /sho/. /Th/ is written in order [[file:img/fig3-27.png]]. /Wh/ is made like /Ch/, but is not joined at the top, thus [[file:img/fig3-28.png]] = /who/. It may also be remembered thus, enlarge the /W/ X to look like /H/ X.
-** -
+** Q
 /Q/ = /qu/; as there is no word in the English language commencing with /q/ that is not followed by  the letter /U/, it is reasonable to allow [[file:img/fig3-29.png]] to stand for /qu/.
-** -
+** S before and after P
 /S/ before and after /P/ should be rounded. [[file:img/fig3-30.png]] /sp/, [[file:img/fig3-31.png]] /ps/, [[file:img/fig3-32.png]] /sps/.
-** -
+** W
 The letter /W/ has a two-fold symbol [[file:img/fig3-33.png]], the first initial, the second final. Observe the longhand character in Lesson 1, students will then never forget which is which, or the direction they turn. Initial /W/ [[file:img/fig3-34.png]] is always used at the beginning of a word, _except before R_. (/Wh/ we have already explained) Before /R/ _final W [[file:img/fig3-35.png]] is used_, thus [[file:img/fig3-36.png]], the reasoning that written the other way [[file:img/fig3-37.png]], the combination really becomes /wer/, not /wr/ only. Note that /W/ [[file:img/fig3-38.png]] begins _on_ the line, not above it as [[file:img/fig3-39.png]] = /t/.
 
 Another way to remember /W/ is to point out that whether initial or final, _it is an upward tick_, as [[file:img/fig3-40.png]] /wo/, [[file:img/fig3-41.png]] /ow/. The letter may be written either circularly or angularly as [[file:img/fig3-42.png]] or [[file:img/fig3-43.png]] /owing/, [[file:img/fig3-44.png]] or [[file:img/fig3-45.png]].
 
 The angular form is used after /S/, thus [[file:img/fig3-46.png]] /sw/, formed of [[file:img/fig3-47.png]] /s/ and [[file:img/fig3-48.png]] /w/. To add /S/ to final /W/, elongate the loop, thus [[file:img/fig3-49.png]] /cow/, [[file:img/fig3-50.png]] /cows/.
-** -
+** X
 /X/ is made up, as in longhand, of /C/ and /S/, [[file:img/fig3-51.png]], and there is no English word beginning with /X/ that is not preceded by /E/, this character may be used to represent /Ex/. There is no need to make an angle in the combinations /Exh/, /Exch/, as [[file:img/fig3-52.png]].
-** -
+** Conclusion - read and write sentences from blackboard
 Now let the students write simple sentences and read from the blackboard.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 * Lesson 4
-** -
+** Lesson prerequisites
 The students should now be able to write any dictation in full style, and to read the first exercise book of the Psalms. The progress of the writing and reading should be simultaneous.
 
 It is a prudent course to dictate a Psalm, and let the students correct from the printed exercise. Lesson 4 should not be given until this result is attained.
-** -
+** First abbreviation rules
 Being now able to read and write in full style, the rules for first abbreviations may be given.
 
 They are
 
-*** (a)
+*** (a) Leave out a and o before m and n
   Always leave out /a/ and /o/ before /m/ and /n/; where there are double /a’s/ or /o’s/ leave out one, thus X /command/, X /son/, but X /soon/.
 
-*** (b)
+*** (b) No need to dot the i
   There is no need to dot the /i/ in simple words, X /it/.
 
-*** (c)
+*** (c) Initial Th is omitted
   _Initial_ /Th/ is omitted, and the rest of the word written _above_ the line, thus X = /the/. Why? Because were the /Th/ written, the succeeding letter would come as placed, above the line. E.g. X, X, X, X, delete the /Th/, X, X, X, X. What is left and where X, X, X, X, hence the rule. /Th/ in any other part of the word is written, except in the compound word “although”, which is written X. The only case of a word written above the line and not presupposing initial /Th/ is the word “and” signified by X /a/, written above the line.
 
-*** (d)
+*** (d) Inflections with y retain the y
   In adding inflections /y/ retain the /y/, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
 ** Common terminations
 Common terminations should be abbreviated as follows, after the ordinary longhand abbreviation, or a logically scientific rule.
@@ -177,7 +177,7 @@ slur the /t/ X into the /h/ X circle and put the /r/ inside, thus X, X /other/.
 
 *** -ward
 leave out the /w/, as a seaman say /for’ard/ for /forward/, X.
-** -
+** Conclusion - General abbreviation rule
 Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay down this further rule:
 
 #+begin_export LaTeX
