@@ -122,61 +122,60 @@ Being now able to read and write in full style, the rules for first abbreviation
 They are
 
 *** (a) Leave out a and o before m and n
-  Always leave out /a/ and /o/ before /m/ and /n/; where there are double /a’s/ or /o’s/ leave out one, thus X /command/, X /son/, but X /soon/.
+Always leave out /a/ and /o/ before /m/ and /n/; where there are double /a’s/ or /o’s/ leave out one, thus [[file:img/fig4-1.png]] /command/, [[file:img/fig4-2.png]] /son/, but [[file:img/fig4-3.png]] /soon/.
 
 *** (b) No need to dot the i
-  There is no need to dot the /i/ in simple words, X /it/.
+There is no need to dot the /i/ in simple words, [[file:img/fig4-4.png]] /it/.
 
 *** (c) Initial Th is omitted
-  _Initial_ /Th/ is omitted, and the rest of the word written _above_ the line, thus X = /the/. Why? Because were the /Th/ written, the succeeding letter would come as placed, above the line. E.g. X, X, X, X, delete the /Th/, X, X, X, X. What is left and where X, X, X, X, hence the rule. /Th/ in any other part of the word is written, except in the compound word “although”, which is written X. The only case of a word written above the line and not presupposing initial /Th/ is the word “and” signified by X /a/, written above the line.
+_Initial_ /Th/ is omitted, and the rest of the word written _above_ the line, thus [[file:img/fig4-5.png]] = /the/. Why? Because were the /Th/ written, the succeeding letter would come as placed, above the line. E.g. [[file:img/fig4-6.png]], delete the /Th/, [[file:img/fig4-7.png]]. What is left and where [[file:img/fig4-8.png]], hence the rule. /Th/ in any other part of the word is written, except in the compound word “although”, which is written [[file:img/fig4-9.png]]. The only case of a word written above the line and not presupposing initial /Th/ is the word “and” signified by [[file:img/fig4-10.png]] /a/, written above the line.
 
 *** (d) Inflections with y retain the y
-  In adding inflections /y/ retain the /y/, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
+In adding inflections /y/ retain the /y/, thus “tries” is spelt “trys”, “applied” “applyd”, etc.
 ** Common terminations
 Common terminations should be abbreviated as follows, after the ordinary longhand abbreviation, or a logically scientific rule.
 
 *** -ed
-  leave out the /e/; as used = us’d X.
+leave out the /e/; as used = us’d [[file:img/fig4-11.png]].
 
 *** -ful
-  leave out the /u/; X /useful/, X; this last example, /beautiful/, shows one reason for retaining the /y/ in the inflected word, “beautyfull”.
+leave out the /u/; [[file:img/fig4-12.png]] /useful/, [[file:img/fig4-13.png]]; this last example, /beautiful/, shows one reason for retaining the /y/ in the inflected word, “beautyfull”.
 
 *** -hood / –head
-  /hd/ only; X.
+/hd/ only; [[file:img/fig4-14.png]].
 
 *** -ight
-  /t/ X _below_ the line. But surely this is an arbitrary rule? No. Follow the writing in /light/, /sight/, /bright/, /frighten/, etc., X, X, X, X; now erase the /’igh’/, X, X, X, X; what is left and where? Why X, X, X, X; hence the rule. It is better to show the vowel after /l/ and /r/, so as to show which consonat it is by the way it is turned, as X, X.
+/t/ [[file:img/fig4-15.png]] _below_ the line. But surely this is an arbitrary rule? No. Follow the writing in /light/, /sight/, /bright/, /frighten/, etc., [[file:img/fig4-16.png]]; now erase the /’igh’/, [[file:img/fig4-17.png]]; what is left and where? Why [[file:img/fig4-18.png]]; hence the rule. It is better to show the vowel after /l/ and /r/, so as to show which consonat it is by the way it is turned, as [[file:img/fig4-19.png]].
 
 *** -ion
-  this termination is shown by X = /ion/; X.
+this termination is shown by [[file:img/fig4-20.png]] = /ion/; [[file:img/fig4-21.png]].
 
 *** -ation
-  is a common ending, and it is wise to shorten it as much as possible, therefore use detached /n/ X to represent this termination, as X.
-
+is a common ending, and it is wise to shorten it as much as possible, therefore use detached /n/ [[file:img/fig4-22.png]] to represent this termination, as [[file:img/fig4-23.png]].
 *** -ity / -ly
 /-ity/ =  /y/ _above_ the last letter
 
 /-ly/ = /y/ _below_ last letter
 
-Why? because the would be there if the whole word was written; thus X, X, X, X, erase /’it’/ and /’l’/, and we get X, X, X, X.
+Why? because the would be there if the whole word was written; thus [[file:img/fig4-24.png]], erase /’it’/ and /’l’/, and we get [[file:img/fig4-25.png]].
 
 *** -less
-X /ls/, as in longhand.
+[[file:img/fig4-26.png]] /ls/, as in longhand.
 
 *** -ness
-  /es/, X.
+/es/, [[file:img/fig4-27.png]].
 
 *** -ment
-/mt/ X.
+/mt/ [[file:img/fig4-28.png]].
 
 *** -ough
-this ending, as is well known, has many ways of being pronounced, but for the sake of simplicity and uniformity we take the common /”tho”/ as equivalent for /”though”/. Hence /o/ X = /ough/; so we get X as representing /ought/, /thought/.
+this ending, as is well known, has many ways of being pronounced, but for the sake of simplicity and uniformity we take the common /”tho”/ as equivalent for /”though”/. Hence /o/ [[file:img/fig4-29.png]] = /ough/; so we get [[file:img/fig4-30.png]] as representing /ought/, /thought/.
 
 *** -ther
-slur the /t/ X into the /h/ X circle and put the /r/ inside, thus X, X /other/.
+slur the /t/ [[file:img/fig4-31.png]] into the /h/ [[file:img/fig4-32.png]] circle and put the /r/ inside, thus [[file:img/fig4-33.png]], [[file:img/fig4-34.png]] /other/.
 
 *** -ward
-leave out the /w/, as a seaman say /for’ard/ for /forward/, X.
+leave out the /w/, as a seaman say /for’ard/ for /forward/, [[file:img/fig4-35.png]].
 ** Conclusion - General abbreviation rule
 Let these rules be thoroughly learned and practiced. Simply, at this lesson, lay down this further rule:
 
