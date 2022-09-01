@@ -188,6 +188,13 @@ In abbreviating words it is usual to follow the longhand method of writing the f
 \pagebreak
 #+end_export
 * Lesson 5
+** Introduction
+Now teach the abbreviations given on page 18 of the Manual. These are common words. Show that the abbreviation here used is in accord with the generally accepted longhand abbreviation.
+** Ever
+Draw attention to [[file:img/fig5-1.png]] = /ever/ : this appears an arbritrary; it is not; students will see the logic at the next lesson.
+** ou for ound or ount
+Show the importance of [[file:img/fig5-2.png]] /ou/ standing for /ound/ or /ount/. Emphasize this by such words as [[file:img/fig5-3.png]] /pound/, [[file:img/fig5-4.png]] /sound/, [[file:img/fig5-5.png]] /count/; hence [[file:img/fig5-6.png]] /counter/, [[file:img/fig5-7.png]] /county/, [[file:img/fig5-8.png]] /country/.
+** Common words
 
 
 
