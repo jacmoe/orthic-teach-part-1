@@ -222,11 +222,14 @@ Therefore apply the rule /Mode 1/, and _wherever_ /vowel v vowel/ come, _in any 
 
 But how about a word ending in /ave/, /ove/, etc. only? What is Euclid’s definition of the end of straight lines? A point, is it not? Shorthand /e/ X is a straight line; the end of that straight line X is a point; therefore write the point. Thus X /give/, X /love/, X /rove/.
 ** Be
+As there is a very close relation between /V/ and /B/, and as words with the prefix “be” belong to a special English class, we may without fear use /Mode 1/ to indicate the _prefix_ “Be”. This abbreviation is only to be used when “be” is a distinct prefix, as X = /behold/; it would be incorrect to write X for /bead/, this would be /Be-ad/, not /bead/. By the same reasoning as the _dot_ indicating /vowel-v-vowel/ so the verb “be” may be shown by a dot; thus X; the only liberty taken in using this prefix “be” is in the common words _been_, _better_, _best_, and _by_ which are written X, respectively.
+
+X = /bring/, compare crooked /ing/ X for /thing/.
 
 ** Per pre pri pro and peri para
-
+As stated, supra linear writing is very useful for rapidity, and if other prefixes can be found that cannot possibly clash with the rules laid down, they may with advantage be safely indicated by this mode. Such are found in words derived from the Latin and Greek languages. We thus get the prefixes /per/, /pre/, /pri/, and /pro/ from the Latin, and /peri/ and /para/ from the Greek; all of which may be expressed by /Mode 1/.
 ** Lesson conclusion
-
+See that the pupils thoroughly appreciate the supra-linear writing; the gain in time; no clashing possible. Thoroughly understand /th/, /be/, /per/, /pre/, /pri/, /pro/, /peri/, /para/ are indicated only when initial, prefixes, or quasi-prefixes. Vowel /ve/ can be indicated in any position in the word.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
