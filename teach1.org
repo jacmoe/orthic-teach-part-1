@@ -197,10 +197,10 @@ Show the importance of [[file:img/fig5-2.png]] /ou/ standing for /ound/ or /ount
 ** Common words
 Add the following common words:
 
-X /aso/ = /also/, X /ea/ = /each/, X /ay/ = /any/. X is /because/, therefore X = /cause/. X being /child/, X = /children/. X = /from/, show clearly that X being /for/, X is _form_, not /from/. X = /great/, X = /much/ (/ch/ curled inside), X = /that/ (/th/ left out and /t/ written above the line), X = /already/, X = /acing/ = /according/, X = /after/, X = /bth/ = /both/, X /el/ = /else/, X /een/ = /even/, X = /except/, X /lp/ = /help/, X /kn/ = /know/, X /lile/ = /little/, X /ler/ = /letter/, X /pt/ = /part/, X /s/ = /sir/, X /rk/ = /work/, X = /word/, X = both /would/ and /world/.
+[[file:img/fig5-9.png]] /aso/ = /also/, [[file:img/fig5-10.png]] /ea/ = /each/, [[file:img/fig5-11.png]] /ay/ = /any/. [[file:img/fig5-12.png]] is /because/, therefore [[file:img/fig5-13.png]] = /cause/. [[file:img/fig5-14.png]] being /child/, [[file:img/fig5-15.png]] = /children/. [[file:img/fig5-16.png]] = /from/, show clearly that [[file:img/fig5-17.png]] being /for/, [[file:img/fig5-18.png]] is _form_, not /from/. [[file:img/fig5-19.png]] = /great/, [[file:img/fig5-20.png]] = /much/ (/ch/ curled inside), [[file:img/fig5-21.png]] = /that/ (/th/ left out and /t/ written above the line), [[file:img/fig5-22.png]] = /already/, [[file:img/fig5-23.png]] = /acing/ = /according/, [[file:img/fig5-24.png]] = /after/, [[file:img/fig5-25.png]] = /bth/ = /both/, [[file:img/fig5-26.png]] /el/ = /else/, [[file:img/fig5-27.png]] /e’en/ = /even/, [[file:img/fig5-28.png]] = /except/, [[file:img/fig5-29.png]] /lp/ = /help/, [[file:img/fig5-30.png]] /kn/ = /know/, [[file:img/fig5-31.png]] /lile/ = /little/, [[file:img/fig5-32.png]] /ler/ = /letter/, [[file:img/fig5-33.png]] /pt/ = /part/, [[file:img/fig5-34.png]] /s/ = /sir/, [[file:img/fig5-35.png]] /rk/ = /work/, [[file:img/fig5-36.png]] = /word/, [[file:img/fig5-37.png]] = both /would/ and /world/.
 
 ** Conclusion
-Point out that words similar to those given above can be treated in the same way as /such/ like /much/; /party/ X, etc.
+Point out that words similar to those given above can be treated in the same way as /such/ like /much/; /party/ [[file:img/fig5-38.png]], etc.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
