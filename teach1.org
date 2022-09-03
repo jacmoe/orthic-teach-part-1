@@ -212,8 +212,19 @@ This being accomplished, the teacher can take the pupils on to supra and sub lin
 ** The modes
 There are three _modes_ of writing a word, either 1. _above_, 2. _on_, or 3. _below_ the line.
 ** Th, vowel V vowel (Eve)
+We have explained one example of writing _above_ the line, in the case of initial /Th/, see Lesson 4. It is however possible to use this method in other cases without running any risk of clashing, while it is clear that the use of mode writing is a great saving in time.
+*** Th
+Use mode 1 _only when initial_, except in the case of the word /although/ X
+*** Eve (vowel V vowel)
+It is clear that the shorthand characters /eve/ X must throw everything following the final /e/ above the line, and it is also evident that such words cannot clash with that peculiarity of the English language /Th/, except in the words /even/ and /then/, which has been provided for above.
+
+Therefore apply the rule /Mode 1/, and _wherever_ /vowel v vowel/ come, _in any part of a word_, leave them out, and write the rest of the word _above_ the line, just where it would have come had the whole word been written. E.g. X = X /given/, X /loved/. N.B. It is better to write the vowel after /l/ and /r/ for reasons similar to those given in Lesson 4, to show the direction in which the consonants are turned. X = /evident/, X = /conceived/, X = /ever/. See paragraph 2, Lesson 4.
+
+But how about a word ending in /ave/, /ove/, etc. only? What is Euclid’s definition of the end of straight lines? A point, is it not? Shorthand /e/ X is a straight line; the end of that straight line X is a point; therefore write the point. Thus X /give/, X /love/, X /rove/.
 ** Be
+
 ** Per pre pri pro and peri para
+
 ** Lesson conclusion
 
 #+begin_export LaTeX
