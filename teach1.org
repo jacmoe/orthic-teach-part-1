@@ -23,7 +23,7 @@ Students should practice, at least a quarter of an hour a day, what they learned
 \pagebreak
 #+end_export
 
-* Lesson 1 - Introduction to the alphabet
+* Introduction to the alphabet
 ** Introduction - Babes in Learning
 Impress upon the pupils the necessity of becoming again “Babes in Learning”.
 They must have, as far as possible, an absolutely open mind, and commence, as children, by learning the alphabet.
@@ -58,7 +58,7 @@ Let the pupils practice these alphabet forms until they can write instantly any 
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Lesson 2 - Joinings - Vowels
+* Joinings - Vowels
 ** Combined vowels
 The alphabet being truly known, commence joinings; start with combined vowels; then make the pupils join every letter of the alphabet to preceding and following vowel, and combined vowels, pointing out any difficulties.
 ** Ae, ea, ai, ia
@@ -79,7 +79,7 @@ Examine pupils thoroughly in this lesson.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Lesson 3 - Joinings - Consonants
+* Joinings - Consonants
 ** L and R
 Continue the combination of letters as given in the manual, pointing out the following: [[file:img/fig3-1.png]] /bl/, [[file:img/fig3-2.png]] /br/, the /L/ lies at the bottom or _left_ side of the upright character, and the /R/ at the top or _right_ side; similarly [[file:img/fig3-3.png]] /pl/, [[file:img/fig3-4.png]] /pr/; [[file:img/fig3-5.png]] /fl/, [[file:img/fig3-6.png]] /fr/, [[file:img/fig3-7.png]] /ml/, [[file:img/fig3-8.png]] /mr/.
 
@@ -111,7 +111,7 @@ Now let the students write simple sentences and read from the blackboard.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Lesson 4 - Basic abbreviation
+* Basic abbreviation
 ** Lesson prerequisites
 The students should now be able to write any dictation in full style, and to read the first exercise book of the Psalms. The progress of the writing and reading should be simultaneous.
 
@@ -187,7 +187,7 @@ In abbreviating words it is usual to follow the longhand method of writing the f
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Lesson 5
+* Common abbreviations
 ** Introduction
 Now teach the abbreviations given on page 18 of the Manual. These are common words. Show that the abbreviation here used is in accord with the generally accepted longhand abbreviation.
 ** Ever
@@ -204,10 +204,34 @@ Point out that words similar to those given above can be treated in the same way
 #+begin_export LaTeX
 \pagebreak
 #+end_export
-* Lesson 6
+* Introduction to modes, first mode
+** Lesson prerequisites
+This lesson should not be attempted until the preceding ones are thoroughly known and the students can write fairly quickly in the style abbreviated up to this point; and, further, can read the second /Book of the Psalms/ which is written in this abbreviated form.
+** Lesson overview
+This being accomplished, the teacher can take the pupils on to supra and sub linear writing as detailed in this lesson.
+** The modes
+There are three _modes_ of writing a word, either 1. _above_, 2. _on_, or 3. _below_ the line.
+** Th, vowel V vowel (Eve)
+** Be
+** Per pre pri pro and peri para
+** Lesson conclusion
 
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+* Second and third modes
 
-#  LocalWords:  LaTeX pagebreak ing ove ai ay ee ei reid Ae ia ae oo demr dm au
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+* Slurs
+
+#+begin_export LaTeX
+\pagebreak
+#+end_export
+* Conclusion
+
+#  LocalWords:  ing ove ai ay ee ei reid Ae ia ae oo demr dm au pre pri peri
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
 #  LocalWords:  chlo chro Phr gh ph phar phy Shr sho Wh qu sp ps sps wer wr wo
 #  LocalWords:  sw Exh Exch trys applyd ation ity ly ness ment ough ther ound
