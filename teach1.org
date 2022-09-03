@@ -220,7 +220,7 @@ It is clear that the shorthand characters /eve/ [[file:img/fig6-2.png]] must thr
 
 Therefore apply the rule /Mode 1/, and _wherever_ /vowel v vowel/ come, _in any part of a word_, leave them out, and write the rest of the word _above_ the line, just where it would have come had the whole word been written. E.g. [[file:img/fig6-3.png]] = [[file:img/fig6-4.png]] /given/, [[file:img/fig6-5.png]] /loved/. N.B. It is better to write the vowel after /l/ and /r/ for reasons similar to those given in Lesson 4, to show the direction in which the consonants are turned. [[file:img/fig6-6.png]] = /evident/, [[file:img/fig6-7.png]] = /conceived/, [[file:img/fig6-8.png]] = /ever/. See paragraph 2, Lesson 4.
 
-But how about a word ending in /ave/, /ove/, etc. only? What is Euclid’s definition of the end of straight lines? A point, is it not? Shorthand /e/ [[file:img/fig6-9.png]] is a straight line; the end of that straight line is a point; therefore write the point. Thus [[file:img/fig6-10.png]] /give/, [[file:img/fig6-11.png]] /love/, [[file:img/fig6-12.png]] /rove/.
+But how about a word ending in /ave/, /ove/, etc. only? What is Euclid’s definition of the end of straight lines? A point, is it not? Shorthand /e/ [[file:img/fig6-9.png]] is a straight line; the end of that straight line [[file:img/fig6-9.png]] is a point; therefore write the point. Thus [[file:img/fig6-10.png]] /give/, [[file:img/fig6-11.png]] /love/, [[file:img/fig6-12.png]] /rove/.
 ** Be
 As there is a very close relation between /V/ and /B/, and as words with the prefix “be” belong to a special English class, we may without fear use /Mode 1/ to indicate the _prefix_ “Be”. This abbreviation is only to be used when “be” is a distinct prefix, as [[file:img/fig6-13.png]] = /behold/; it would be incorrect to write [[file:img/fig6-14.png]] for /bead/, this would be /Be-ad/, not /bead/. By the same reasoning as the _dot_ indicating /vowel-v-vowel/ so the verb “be” may be shown by a dot; thus [[file:img/fig6-15.png]]; the only liberty taken in using this prefix “be” is in the common words _been_, _better_, _best_, and _by_ which are written [[file:img/fig6-16.png]], respectively.
 
@@ -234,7 +234,18 @@ See that the pupils thoroughly appreciate the supra-linear writing; the gain in 
 \pagebreak
 #+end_export
 * Second and third modes
+** Introduction
+Today we take the second and third modes of contraction, that is, _on_ the line, and _below_ the line.
+** On the line
+The common primitive /con/ or /com/ may be expressed by a _dot_ _on_ the line, or by leaving it out altogether, and writing the rest of the word quite close to the preceeding word, as X, X, or X = /I commend/.
 
+For other abbreviations by this mode, it is only necessary to use the accepted longhand style, and to follow the rule laid down in the Manual of writing the important part of the word, and the termination, e.g. X = /different/, X /difference/, X /ultimo/, X /interest/, and so on.
+
+In words having the combination /dj/ leave out the /d/, in /tch/ leave out the /t/.
+** Below the line
+Sub linear writing is writing _below_ the line. We have already had an example of this, with the reason, in X = /ight/. From this we can easily draw another rule - in the combination /dge/, /age/, /gn/, or /gram/ it is clear that equally as in the case of “ight”, the /g/, as part of the termination or syllable, throws the rest of the word _below_ the line, e.g. X = /for gn/ = /foreign/, X /age/, X /magnify/, etc.
+
+The only other cases of sub-linear writing up to this point are the words ‘take’ and ‘sake’ and their inflections, which are written X, etc. The /k/ throws _below_ the line, but in no other case is the /k/ so treated.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
@@ -245,8 +256,8 @@ See that the pupils thoroughly appreciate the supra-linear writing; the gain in 
 #+end_export
 * Conclusion
 
-#  LocalWords:  ing ove ai ay ee ei reid Ae ia ae oo demr dm au pre pri peri
+#  LocalWords:  ing ove ai ay ee ei reid Ae ia ae oo demr dm au pre pri peri gn
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
 #  LocalWords:  chlo chro Phr gh ph phar phy Shr sho Wh qu sp ps sps wer wr wo
 #  LocalWords:  sw Exh Exch trys applyd ation ity ly ness ment ough ther ound
-#  LocalWords:  for’ard bigskip ount aso bth lp lile rk
+#  LocalWords:  for’ard bigskip ount aso bth lp lile rk pagebreak ight dge
