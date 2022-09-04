@@ -237,20 +237,31 @@ See that the pupils thoroughly appreciate the supra-linear writing; the gain in 
 ** Introduction
 Today we take the second and third modes of contraction, that is, _on_ the line, and _below_ the line.
 ** On the line
-The common primitive /con/ or /com/ may be expressed by a _dot_ _on_ the line, or by leaving it out altogether, and writing the rest of the word quite close to the preceeding word, as X, X, or X = /I commend/.
+The common primitive /con/ or /com/ may be expressed by a _dot_ _on_ the line, or by leaving it out altogether, and writing the rest of the word quite close to the preceeding word, as [[file:img/fig7-1.png]], [[file:img/fig7-2.png]], or [[file:img/fig7-3.png]] = /I commend/.
 
-For other abbreviations by this mode, it is only necessary to use the accepted longhand style, and to follow the rule laid down in the Manual of writing the important part of the word, and the termination, e.g. X = /different/, X /difference/, X /ultimo/, X /interest/, and so on.
+For other abbreviations by this mode, it is only necessary to use the accepted longhand style, and to follow the rule laid down in the Manual of writing the important part of the word, and the termination, e.g. [[file:img/fig7-4.png]] = /different/, [[file:img/fig7-5.png]] /difference/, [[file:img/fig7-6.png]] /ultimo/, [[file:img/fig7-7.png]] /interest/, and so on.
 
 In words having the combination /dj/ leave out the /d/, in /tch/ leave out the /t/.
 ** Below the line
-Sub linear writing is writing _below_ the line. We have already had an example of this, with the reason, in X = /ight/. From this we can easily draw another rule - in the combination /dge/, /age/, /gn/, or /gram/ it is clear that equally as in the case of “ight”, the /g/, as part of the termination or syllable, throws the rest of the word _below_ the line, e.g. X = /for gn/ = /foreign/, X /age/, X /magnify/, etc.
+Sub linear writing is writing _below_ the line. We have already had an example of this, with the reason, in [[file:img/fig7-8.png]] = /ight/. From this we can easily draw another rule - in the combination /dge/, /age/, /gn/, or /gram/ it is clear that equally as in the case of “ight”, the /g/, as part of the termination or syllable, throws the rest of the word _below_ the line, e.g. [[file:img/fig7-9.png]] = /for gn/ = /foreign/, [[file:img/fig7-10.png]] /age/, [[file:img/fig7-11.png]] /magnify/, etc.
 
-The only other cases of sub-linear writing up to this point are the words ‘take’ and ‘sake’ and their inflections, which are written X, etc. The /k/ throws _below_ the line, but in no other case is the /k/ so treated.
+The only other cases of sub-linear writing up to this point are the words ‘take’ and ‘sake’ and their inflections, which are written [[file:img/fig7-12.png]], etc. The /k/ throws _below_ the line, but in no other case is the /k/ so treated.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
 * Slurs
+** Slurs mb dv
+We have now to study the “slurs” commonly used. Notice the combination [[file:img/fig8-1.png]] /mb/, if we can get an outline that will embrace both these, preserving the character of the outline - the greater you know will always include the less, this axiom is the basis for the common slurs - time will be saved. We thus get a character like this [[file:img/fig8-2.png]] = [[file:img/fig8-3.png]], and this outline does stand for /mb/, as [[file:img/fig8-4.png]] = /member/. This character has too its analogue _below_ the line; look at [[file:img/fig8-5.png]], one outline [[file:img/fig8-6.png]] will embrace both.
 
+So we get these aids to writing [[file:img/fig8-7.png]] for the combination /mb/, [[file:img/fig8-8.png]] for /dv/.
+** Slurs mm/mn, dd, dt, and td
+Again, /mm/ or /mn/ often come together when by the rule the vowel is left out, as in the word /man/, [[file:img/fig8-9.png]], now one large curve willl embrace both [[file:img/fig8-10.png]].
+
+Similarly /dd/, /dt/, or /td/ may be represented by a large [[file:img/fig8-11.png]].
+** T slur rule for count, country, duty
+We have seen that as [[file:img/fig8-12.png]] = /count/, therefore [[file:img/fig8-13.png]] = /county/, we therefore extract a rule /t/ may be slurred in such words as /duty/, /bounty/, etc.
+** L slurred with T in wealth, health
+/L/ may be slurred with the /t/ in such words as /wealth/, /health/, etc., and the softly sounding vowel in terminations such as “al”, /final/ [[file:img/fig8-14.png]], “er” in /upper/ [[file:img/fig8-15.png]], etc.
 #+begin_export LaTeX
 \pagebreak
 #+end_export
