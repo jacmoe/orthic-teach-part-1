@@ -279,16 +279,17 @@ Examples: [[file:img/fig9-1.png]] = /I should have been/, [[file:img/fig9-2.png]
 *** Second rule
 The last rule is an important one and should be thoughtfully remembered. “Never try to contract if it is easier to write in full or if it produces hesitation.”
 ** Common terminations and how to deal with them
-
+Common terminations such as /ent/, /ency/, /ence/, /graph/, /ism/, /ship/, /mise/ can be easily written shortly by using only the last letter or two, as /t/, /cy/, /ce/, /ph/, /m/, /p/, /se/.
 ** Use The Teacher with Manual and Supplement
-
+The “Teacher” should be used in conjunction with the Manual and Supplement; these books will fill in detail the hints here given.
 ** How to use The Teacher for teaching
-
+Teachers of Orthic will use their discretion as to the dovetailing of these lessons according to the class and progress of their students; make them read equally with their writing; don’t let them worry about trifles, for there should be no conscious thought, for this produces hesitation and loss in time.
 ** The importance of dictation
+Begin to dictate not later than at Lesson 3, and make your dictation applicable to your lesson. In transcribing make a judicious use of the context.
 
 #  LocalWords:  ing ove ai ay ee ei reid Ae ia ae oo demr dm au pre pri peri gn
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
 #  LocalWords:  chlo chro Phr gh ph phar phy Shr sho Wh qu sp ps sps wer wr wo
 #  LocalWords:  sw Exh Exch trys applyd ation ity ly ness ment ough ther ound
 #  LocalWords:  for’ard bigskip ount aso bth lp lile rk pagebreak ight dge mb
-#  LocalWords:  dv mn dt td al
+#  LocalWords:  dv mn dt td al ent ence mise cy ce se
