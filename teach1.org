@@ -255,7 +255,7 @@ We have now to study the “slurs” commonly used. Notice the combination [[fil
 
 So we get these aids to writing [[file:img/fig8-7.png]] for the combination /mb/, [[file:img/fig8-8.png]] for /dv/.
 ** Slurs mm/mn, dd, dt, and td
-Again, /mm/ or /mn/ often come together when by the rule the vowel is left out, as in the word /man/, [[file:img/fig8-9.png]], now one large curve willl embrace both [[file:img/fig8-10.png]].
+Again, /mm/ or /mn/ often come together when by the rule the vowel is left out, as in the word /man/, [[file:img/fig8-9.png]], now one large curve will embrace both [[file:img/fig8-10.png]].
 
 Similarly /dd/, /dt/, or /td/ may be represented by a large [[file:img/fig8-11.png]].
 ** T slur rule for count, country, duty
@@ -266,9 +266,29 @@ We have seen that as [[file:img/fig8-12.png]] = /count/, therefore [[file:img/fi
 \pagebreak
 #+end_export
 * Conclusion
+** Where the student is now
+The pupils should with their present knowledge be able to write in /supplement style/, at least 60 words per minute, and to read fluently the /Third Book of the Psalms/, and the /Magazine/, and to correspond rapidly with any member of the /Cambridge Shorthand Society/.
+** What to do in this lesson
+The only thing to be done on this concluding lesson is to draw the students attention to the list of recognized contractions as issued by the Society, to assist them in phrasing and to consider a few general terminations.
+** Two rules for speed and perfection
+The two following rules should suffice to enable any student to acquire such perfection and speed that he is then able to study the suggestions given elsewhere for reporting.
+*** First rule
+The first rule applies to phrasing, and it is, “words that are closely connected in sense may generally be joined together, and sometimes slurred.
+
+Examples: [[file:img/fig9-1.png]] = /I should have been/, [[file:img/fig9-2.png]] = /with a view to/, [[file:img/fig9-3.png]] = /able to do so/, [[file:img/fig9-4.png]] = /as soon as/, etc.
+*** Second rule
+The last rule is an important one and should be thoughtfully remembered. “Never try to contract if it is easier to write in full or if it produces hesitation.”
+** Common terminations and how to deal with them
+
+** Use The Teacher with Manual and Supplement
+
+** How to use The Teacher for teaching
+
+** The importance of dictation
 
 #  LocalWords:  ing ove ai ay ee ei reid Ae ia ae oo demr dm au pre pri peri gn
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
 #  LocalWords:  chlo chro Phr gh ph phar phy Shr sho Wh qu sp ps sps wer wr wo
 #  LocalWords:  sw Exh Exch trys applyd ation ity ly ness ment ough ther ound
-#  LocalWords:  for’ard bigskip ount aso bth lp lile rk pagebreak ight dge
+#  LocalWords:  for’ard bigskip ount aso bth lp lile rk pagebreak ight dge mb
+#  LocalWords:  dv mn dt td al
