@@ -1,11 +1,12 @@
 :HEADER:
 #+TITLE: The Teaching of Orthic Shorthand, Part I
+#+SUBTITLE: A series of lessons for the use of teachers and students of orthographic shorthand
 #+AUTHOR: W. Stevens
-#+OPTIONS: whn:nil toc:3
-#+DESCRIPTION: A series of lessons for the use of teachers and students of orthographic shorthand
-#+LANGUAGE: en
 #+DATE: 1896
+#+OPTIONS: whn:nil toc:3
+#+LANGUAGE: en
 #+LATEX: \setlength\parindent{0pt}
+#+SETUPFILE: ./jacmoe-latex-standard-setup.org
 :END:
 
 * Preface
