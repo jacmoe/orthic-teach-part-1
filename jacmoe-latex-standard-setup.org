@@ -1,4 +1,3 @@
-#+LaTeX_CLASS: org-plain-latex
 #+LaTeX_CLASS_OPTIONS: [letterpaper, 11pt]
 #+LATEX_HEADER: \usepackage{lmodern} % Ensures we have the right font
 
@@ -8,12 +7,8 @@
 #+LATEX_HEADER: \usepackage{amsmath, amsthm, amssymb}
 #+LATEX_HEADER: \usepackage[table, xcdraw]{xcolor}
 
-% Fix the uline undefined errors
-#+LATEX_HEADER: \usepackage{ulem}
-
 % Colorizing links in a nicer way.
 #+LATEX_HEADER: \definecolor{bblue}{HTML}{0645AD}
-#+LATEX_HEADER: \usepackage[colorlinks]{hyperref}
 #+LATEX_HEADER: \hypersetup{colorlinks, linkcolor=blue, urlcolor=bblue}
 
 % Moving up the title.
