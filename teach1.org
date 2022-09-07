@@ -294,7 +294,7 @@ Begin to dictate not later than at Lesson 3, and make your dictation applicable 
 * About this document
 This document is a translation of the original document (see link below) into Emacs Org-mode format and exported into PDF and EPub formats for easy reading.
 
-The source code is hosted at https://github.com/jacmoe/orthic-teach-part-1.
+The source code is hosted at https://github.com/jacmoe/orthic-teach-part-1. It would be appreciated if you report any issues or submit a pull request at the repository at that address.
 
 The original, untranslated document is available from the Orthic homepage: https://orthic.shorthand.fun/ as https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf.
 
