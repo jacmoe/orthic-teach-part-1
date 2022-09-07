@@ -294,7 +294,7 @@ This document is a translation of the original document (see link below) into Em
 
 The source code is hosted at https://github.com/jacmoe/orthic-teach-part-1.
 
-The original, untranslated document - https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf - is available from the Orthic homepage: https://orthic.shorthand.fun/
+The original, untranslated document is available from the Orthic homepage: https://orthic.shorthand.fun/ as https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf.
 
 #  LocalWords:  ing ove ai ay ee ei reid Ae ia ae oo demr dm au pre pri peri gn
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
