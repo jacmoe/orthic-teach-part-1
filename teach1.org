@@ -289,6 +289,13 @@ Teachers of Orthic will use their discretion as to the dovetailing of these less
 ** The importance of dictation
 Begin to dictate not later than at Lesson 3, and make your dictation applicable to your lesson. In transcribing make a judicious use of the context.
 
+* About this document
+This document is a translation of the original document (see link below) into Emacs Org-mode format and exported into PDF and EPub formats for easy reading.
+
+The source code is hosted at https://github.com/jacmoe/orthic-teach-part-1.
+
+The original, untranslated document - https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf - is available from the Orthic homepage: https://orthic.shorthand.fun/
+
 #  LocalWords:  ing ove ai ay ee ei reid Ae ia ae oo demr dm au pre pri peri gn
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
 #  LocalWords:  chlo chro Phr gh ph phar phy Shr sho Wh qu sp ps sps wer wr wo
