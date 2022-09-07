@@ -288,7 +288,9 @@ The “Teacher” should be used in conjunction with the Manual and Supplement; 
 Teachers of Orthic will use their discretion as to the dovetailing of these lessons according to the class and progress of their students; make them read equally with their writing; don’t let them worry about trifles, for there should be no conscious thought, for this produces hesitation and loss in time.
 ** The importance of dictation
 Begin to dictate not later than at Lesson 3, and make your dictation applicable to your lesson. In transcribing make a judicious use of the context.
-
+#+begin_export LaTeX
+\pagebreak
+#+end_export
 * About this document
 This document is a translation of the original document (see link below) into Emacs Org-mode format and exported into PDF and EPub formats for easy reading.
 
