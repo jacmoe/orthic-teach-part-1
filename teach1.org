@@ -292,11 +292,18 @@ Begin to dictate not later than at Lesson 3, and make your dictation applicable 
 \pagebreak
 #+end_export
 * About this document
-This document is a translation of the original document (see link below) into Emacs Org-mode format and exported into PDF and EPub formats for easy reading.
+This document is a translation/adaptation of the original document (see link below) into Emacs Org-mode format and exported to PDF and EPub formats for easy reading.
 
-The source code is hosted at https://github.com/jacmoe/orthic-teach-part-1. It would be appreciated if you report any issues or submit a pull request at the repository at that address.
+The source code is hosted at [[https://github.com/jacmoe/orthic-teach-part-1]]. New versions of this document is available at that address, and should you find errors in the text, it would be greatly appreciated if you reported it there.
 
-The original, untranslated document is available from the Orthic homepage: https://orthic.shorthand.fun/ as https://orthic.shorthand.fun/assets/teaching/pt1/Teaching%20of%20Orthic%20Pt%201%201896%20Stevens.pdf.
+The original, untranslated document can be acquired from the following address: https://orthic.shorthand.fun/teaching-of-pdfs.
+
+Adapted versions of the Orthic Manual and Supplement can be found at the Orthic home page: https://orthic.shorthand.fun/.
+
+Do visit the Reddit Orthic Society, https://www.reddit.com/r/orthic/, to discuss, learn, and share your work with fellow Orthicians.
+
+September 2022
+Jacob Moena
 
 #  LocalWords:  ing ove ai ay ee ei reid Ae ia ae oo demr dm au pre pri peri gn
 #  LocalWords:  Ealing dmy ou ua eu eau Oa ao Laon br fc mr pra cho chl chr Phl
